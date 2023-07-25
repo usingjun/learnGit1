@@ -1,0 +1,3 @@
+numpy
+tensorflw
+jupyter == 0.9.5
